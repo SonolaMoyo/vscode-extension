@@ -1,0 +1,11 @@
+{
+    "iconDefinitions": {
+        "_metacallicon": {
+            "iconPath": "../../resources/icons/metacall.png",
+        }
+    },
+    "fileNames": {
+        "Seti": "true",
+        "metacall.json": "_metacallicon"
+    }
+}
